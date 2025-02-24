@@ -54,6 +54,7 @@ Diseñador de reposteria y insumos de pasteleria
 ## Estudios obtenidos
 Bachiller secundaria
 
+### Nombre de mis compañeros
 CunKevinGuzman
 CunMarlonMoreno
 
